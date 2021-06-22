@@ -1,0 +1,8 @@
+https://stackoverflow.com/questions/52864588/how-to-install-cython-an-anaconda-64-bits-with-windows-10
+
+https://stackoverflow.com/questions/17579357/time-time-vs-timeit-timeit
+
+https://stackoverflow.com/questions/5086430/how-to-pass-parameters-of-a-function-when-using-timeit-timer
+
+
+

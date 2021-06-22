@@ -1,0 +1,7 @@
+.history/*
+.vscode/*
+build
+__pycache__
+*.c
+*.pyd 
+
